@@ -1,0 +1,26 @@
+python rule
+
+
+# python module list
+https://docs.python.org/3/py-modindex.html
+
+
+================================
+naming a component file is using dash "-"
+example: main-component
+===============================
+
+========================================
+naming a variable and function using underscore "_"
+example: first_name, last_name, roll_dice, get_user_api
+==========================================
+
+================================================
+naming a module file using underscore "_"
+example: global_module, status_helpers
+==================================================
+
+===============================================
+naming a class file using underscore "_"
+example: building, class_student
+================================================
