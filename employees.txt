@@ -1,0 +1,5 @@
+jim - salesman
+pam - manager
+oscar - accountant
+toby - human resources
+toby - human resources
